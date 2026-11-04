@@ -1,4 +1,4 @@
-# SQL Query Exercise 7
+# SQL Query - Property Management Data
 
 **CIS 310 | SQL**
 
